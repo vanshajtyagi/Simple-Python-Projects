@@ -13,7 +13,7 @@ pip install pyperclip
 ```
 ## Clone the project 
 ```git
-git clone https://github.com/vanshajtyagi/PasswordGenerator-Python.git
+git clone https://github.com/vanshajtyagi/Simple-Python-Projects.git
 cd PasswordGenerator-Python
 ```
 ## Run
