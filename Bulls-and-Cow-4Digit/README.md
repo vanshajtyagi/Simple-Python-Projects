@@ -7,7 +7,7 @@ Bulls and Cows is an old paper-and-pencil game for two players that involves cod
 	
 * The players take turns trying to guess each other's secret number. After each guess, their opponent provides feedback about the number of matches: if they guess a correct digit in the correct position, it is called a "bull," while if they match a digit but in the wrong position, it is called a "cow."
 
--- For example, if your opponent's secret number is "1854" and you guess "4879," the feedback you will receive is: 1 bull and 1 cow ("8" is the bull, and "4" is the cow).
+*For example, if your opponent's secret number is "1854" and you guess "4879," the feedback you will receive is: 1 bull and 1 cow ("8" is the bull, and "4" is the cow).*
 
 * The first person to reveal their opponent's secret number wins the game.
 
