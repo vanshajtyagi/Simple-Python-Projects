@@ -10,7 +10,7 @@ pip install pip
 
 ## Clone the project 
 ```git
-git clone https://github.com/vanshajtyagi/Tic-Tak-Toe-Python.git
+git clone https://github.com/vanshajtyagi/Simple-Python-Projects.git
 cd Tic-Tak-Toe
 ```
 ## Run
