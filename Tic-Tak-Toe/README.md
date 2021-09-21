@@ -1,4 +1,4 @@
-## Tic-tak-toe
+## Tic-tac-toe
 
 Password Generator is simple program in python which is used to generator password of desire length.
 
